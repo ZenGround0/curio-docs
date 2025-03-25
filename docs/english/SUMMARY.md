@@ -12,6 +12,7 @@
 * [Configuration](configuration/README.md)
   * [Alert Manager](configuration/alert-manager.md)
 * [Boost setup](boost-setup.md)
+* [Curio PDP setup](curio-pdp.md)
 * [Scaling Curio cluster](scaling-curio-cluster.md)
 * [Curio GUI](curio-gui.md)
 * [Best Practices](best-practices.md)
